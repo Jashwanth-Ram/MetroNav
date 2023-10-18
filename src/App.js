@@ -3,19 +3,19 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import React, { useEffect, useState } from "react";
 import Signup from "./Components/Signup/Signup";
 import Home from "./Components/main/main";
-import Login from "./Components/Login/Login";
 import { auth } from "./firebase";
+
 
 function App() {
   const [userName, setUserName] = useState("");
 
-  useEffect(() => {
+ /* useEffect(() => {
     auth.onAuthStateChanged((user) => {
       if (user) {
         setUserName(user.displayName);
       } else setUserName("");
     });
-  }, []);
+  }, []);*/
   return (
     <div className='App'>
       <Router>
