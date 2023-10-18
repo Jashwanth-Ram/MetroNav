@@ -4,6 +4,7 @@ import React, { useEffect, useState } from "react";
 import Signup from "./Components/Signup/Signup";
 import Home from "./Components/main/main";
 import { auth } from "./firebase";
+import Login from "./Components/Login/Login";
 
 
 function App() {
