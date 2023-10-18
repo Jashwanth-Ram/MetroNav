@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# About the project - 
+
+ Developed a web-based application using React.js and Firebase to
+facilitate efficient navigation between metro stations, allowing users to
+find the shortest path between two stations effortlessly.
+• Implemented Dijkstra’s algorithm within the React.js framework to
+compute the optimal metro route and optimizing user experience.
+• Utilized Firebase for user authentication, offering a seamless login and
+registration experience
+
 ## Available Scripts
 
 In the project directory, you can run:
