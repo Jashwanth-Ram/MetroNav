@@ -76,7 +76,7 @@ function Signup() {
             disabled={submitButtonDisabled}>Signup</button>
             <p>Already have an account ?{" "}
             <span>
-                <Link to="/">Login</Link>
+                <Link to="/metroNav">Login</Link>
             </span>
             </p>
         </div>
