@@ -1,22 +1,13 @@
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import React, { useEffect, useState } from "react";
+import React, {  useState } from "react";
 import Signup from "./Components/Signup/Signup";
 import Home from "./Components/main/main";
-import { auth } from "./firebase";
 import Login from "./Components/Login/Login";
 
 
 function App() {
-  const [userName, setUserName] = useState("");
 
- /* useEffect(() => {
-    auth.onAuthStateChanged((user) => {
-      if (user) {
-        setUserName(user.displayName);
-      } else setUserName("");
-    });
-  }, []);*/
   return (
     <div className='App'>
       <Router>
