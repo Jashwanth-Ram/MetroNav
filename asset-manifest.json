@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/metronav/static/css/main.5bebabbc.css",
+    "main.js": "/metronav/static/js/main.ec56cd28.js",
+    "static/js/787.2010382e.chunk.js": "/metronav/static/js/787.2010382e.chunk.js",
+    "index.html": "/metronav/index.html",
+    "main.5bebabbc.css.map": "/metronav/static/css/main.5bebabbc.css.map",
+    "main.ec56cd28.js.map": "/metronav/static/js/main.ec56cd28.js.map",
+    "787.2010382e.chunk.js.map": "/metronav/static/js/787.2010382e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bebabbc.css",
+    "static/js/main.ec56cd28.js"
+  ]
+}
