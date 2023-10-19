@@ -12,6 +12,8 @@ compute the optimal metro route and optimizing user experience.
 • Utilized Firebase for user authentication, offering a seamless login and
 registration experience
 
+Link to the project - https://jashwanth-ram.github.io/metronav/
+
 ## Available Scripts
 
 In the project directory, you can run:
